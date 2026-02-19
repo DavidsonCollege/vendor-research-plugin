@@ -2,6 +2,18 @@
 
 A comprehensive, multi-agent vendor research toolkit designed for higher education IT procurement. When triggered, this plugin launches 7 specialized research agents in parallel to evaluate a software vendor across security, reputation, cost, legal, competitive, higher-ed fit, and build feasibility dimensions, then synthesizes the findings into a professional Vendor Research Brief document.
 
+## Installation
+
+```bash
+claude plugin add DavidsonCollege/vendor-research-plugin
+```
+
+Or from within Claude Code:
+
+```
+/plugin add DavidsonCollege/vendor-research-plugin
+```
+
 ## What It Does
 
 Say something like "Evaluate NinjaOne for purchase" or "Research Zoom as a vendor" and the coordinator skill will:
