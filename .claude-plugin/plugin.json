@@ -1,0 +1,19 @@
+{
+  "name": "vendor-research",
+  "version": "0.3.0",
+  "description": "Comprehensive multi-agent vendor research toolkit for higher education IT procurement. Launches 7 parallel research agents (security, reputation, cost, legal, competitive, higher-ed fit, build feasibility) and synthesizes findings into a professional Vendor Research Brief document.",
+  "author": {
+    "name": "Davidson College T&I"
+  },
+  "keywords": [
+    "vendor",
+    "procurement",
+    "security",
+    "higher-education",
+    "HECVAT",
+    "compliance",
+    "FERPA",
+    "build-vs-buy",
+    "agentic-ai"
+  ]
+}
