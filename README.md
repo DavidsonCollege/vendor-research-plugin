@@ -37,13 +37,6 @@ Say something like "Evaluate NinjaOne for purchase" or "Research Zoom as a vendo
 | **vendor-higher-ed-fit** | "higher ed fit", "university use", "EDUCAUSE", "campus deployment" | Case studies, academic workflows, compliance, peer institutions |
 | **vendor-build-feasibility** | "build vs buy", "could we build this", "in-house development", "agentic AI alternative" | Complexity analysis, OSS alternatives, TCO comparison, AI dev feasibility |
 
-## What's New in v0.2.0
-
-- **Build Feasibility Assessment** — New 7th agent evaluates whether a vendor's product could be built in-house using agentic AI coding tools. Considers data sensitivity (FERPA/HIPAA = don't build), application complexity, self-hosting architecture, open-source alternatives, maintenance burden, and 3-year/5-year TCO comparison. Produces a verdict on a 4-point scale: BUILD VIABLE, BUILD WITH CAVEATS, LEAN TOWARD BUY, STRONGLY FAVOR BUY.
-- **Updated Readiness Scorecard** — Now includes a Build Feasibility row with color-coded verdict
-- **Updated Executive Summary** — At-a-Glance table includes build feasibility verdict
-- **Updated Recommendations** — Includes build feasibility follow-up actions when relevant
-
 ## Assets
 
 - `assets/Vendor_Research_Brief_Template.docx` — Generic template with placeholder text for all sections
